@@ -1,5 +1,3 @@
-CV Github:
-
 <h1 align="center">Jo Collier</h1>
 
 <div align="center">
@@ -9,54 +7,61 @@ CV Github:
 [Skills ](#skills) | 
 [Experience ](#experience) | 
 [Education ](#education) | 
-[Interests ](#interests)
+[Interests ](#interests) |
+[Other Links](#other)
 
 </div>
 
 
 ## Background 
-
-Graduating from UAL in 2017, I travelled down may different paths - from working in recruitment for a homeless charity to working in first line IT to being part if an exhibition at the Tate Modern. I love problem solving, however tenuous this has been the main link between the various jobs and hobbies I have undertaken. In the past 3 years I have linked my creative brain with its alternative ways of thinking with analytical and systematic approaches, this has been the catalyst to me starting a new journey into programming. 
+ 
+**MAKERS** 
+ 
+Graduating from UAL in 2017, I travelled down many different paths - from working in recruitment for a homeless charity to working in first line IT to being part of an exhibition at the Tate Modern. I love problem solving, however tenuous this has been the main link between the various jobs and hobbies I have undertaken. In the past 3 years I have linked my creative brain with its alternative ways of thinking with analytical and systematic approaches, this has been the catalyst to me starting a new journey into programming. 
 
 ## Projects
 | Title | Description | Technologies Used | Live Link |
-|:--:|--|--|--|--|
+|--|--|--|--|
 [Run Boris, Run]()|
 [Acebook]()|
 [Chitter]()| 
 [Note-able]()|
 
+For more, please see my [GitHub repo](https://github.com/collier-jo?tab=repositories) list.
 
-## Skills 
 
-### Technical Skills:
-
-Languages:  Javascript (and JQuery), Ruby, HTML/CSS 
-Testing Suites: RSPEC, Capybara, Jest, Jasmine, Cypress 
-Frameworks: React, Node (& Express), Sinatra 
+## Tech Stack:
+```
+Languages:  Javascript (& JQuery), Ruby, HTML/CSS 
+Testing Suites: RSPEC, Capybara, Jest (& Enzyme), Jasmine, Cypress, My test suite   
+Frameworks: React, Node (& Express), Sinatra, HTTP Server
 Databases: PostgresSQL, MongoDB(& Mongoose)
-CI/CD: Travis, Heroku
+CI/CD: Travis, Heroku, Netlify 
+```
+
+## Skills
 
 ### Problem Solving:
-	Bug fixing 
+	* Bug fixing 
+	* Targeted Questioning
 	
 ### Teamwork:
 	Pairing 
 
-### Creative thinking: 
+### Creative thinking: 
 
-### Communication: 
-	Soft Skills !!!!!!!!! 
-	Managing expectations 
-	Write and verbal 
-	Targeted Questioning
-	Build trusting relations 
+### Communication: 
+	* Soft Skills !!!!!!!!! 
+	* Managing expectations 
+	* Write and verbal 
+	* Active Listening 
+	* Build trusting relations 
 	
 	
 ## Experience 
 
-Junior IT Service Desk Analyst 
-UAL, 272 High Holborn, London, WC1V 7EY (Oct 2017 –Mar 2020)
+**Junior IT Service Desk Analyst**
+*UAL, 272 High Holborn, London, WC1V 7EY (Oct 2017 –Mar 2020)*
 
 - The first point of contact to Students, Staff and 3rd Party Suppliers for IT Services providing a consistently professional service to all users
 - Via Marval, a Management Software, Ensure that requests are logged with full qualification using targeted questioning or information gathering to ensure the most efficient fix time and best service
@@ -72,8 +77,8 @@ UAL, 272 High Holborn, London, WC1V 7EY (Oct 2017 –Mar 2020)
 - Supporting MS Active Directory Users and Computers
 - Adherence to GDPR data protection policies
 
-Support Analyst 
-UAL, 272 High Holborn, London, WC1V 7EY (Mar 2018 – May 2018)
+**Support Analyst** 
+*UAL, 272 High Holborn, London, WC1V 7EY (Mar 2018 – May 2018)*
 
 - Configure, test, deploy and troubleshoot a varied range of software applications from standard business applications to more specialist software used in the creative industry
 - Liaise with third party suppliers/providers such as hardware and software vendors for incident management, problem management and request fulfilment tasks
@@ -89,8 +94,8 @@ identify operational problems and contribute to their resolution
 - Contribute to the creation of articles and on-going maintenance of the knowledge management system
 
 
-Peer Advisor
-Thames Reach, 29 Peckham Rd, Camberwell, London, SE5 8UA (Sep 2017 – May 2018)
+**Peer Advisor**
+*Thames Reach, 29 Peckham Rd, Camberwell, London, SE5 8UA (Sep 2017 – May 2018)*
 
 - First Point of contact for IAG programme the employment service for a Homeless Charity providing a professional and effective service to clients in line with Thames Reach policies
 - Complete initial assessments and work 1:1 with clients to identify clear individual goals
@@ -102,16 +107,26 @@ Thames Reach, 29 Peckham Rd, Camberwell, London, SE5 8UA (Sep 2017 – May 2018)
 - DBS Checked
 
 
-10 years customer service 
+**10 years customer service**
+*Various Locations* 
 
+## Education: 
+
+* **CompTia Essentials** *In process*
+* **BA (Hons) Fine Art Sculpture** *2.1 Merit Plus (UAL Camberwell College of Arts, 2014-2017)*
+* **Art and Design Foundation** *Distinction (Northbrook College, 2013 -2014)*
+* **Art A LEVEL** *A (BHASVIC, 2011 - 2013)*
+* **Philosophy A LEVEL** *B (BHASVIC, 2011 - 2013)*
+* **Classical Civilisation A LEVEL** *B (BHASVIC, 2011 - 2013)*
+* **GCSE’s** *A-B x10 (St Paul’s Catholic College)* 
 
 ## Interests:
-Digital Makers Collective
-Art - especially ceramics, drawing, textiles and embroidery  
-Running and Pilates 
-Reading - in particular surreal sci fi. 
+* [Digital Makers Collective]() - [Uni to Unicorns](https://www.tate.org.uk/whats-on/tate-modern/tate-exchange/workshop/uni-unicorns)
+* Art - especially ceramics, drawing, textiles and embroidery  
+* Running and Pilates 
+* Reading - in particular surreal sci fi. 
 
-## Other 
+## Other
 - LinkedIn:
 - GitHub:
 - Blog: 
