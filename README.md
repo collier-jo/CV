@@ -30,16 +30,13 @@
 </div>
 
 ## Background 
- 
-**MAKERS** 
 
-I am a Full-Stack developer ....
 
-I have recently graduated from [Makers Academy](https://makers.tech/) - 
+An engaging, behaviour and test driven full stack developer, who has recently graduated from one of the UK’s leading bootcamps, [Makers Academy](https://makers.tech/). I place learning, accessibility and creativity as core drives for my Programming Practice. 
 
-I have recently completed training at [Makers Academy](https://makers.tech/) (London's leading programming bootcamp), to learn best practices, tools and methodologies.
- 
-Graduating from UAL in 2017, I travelled down many different paths - from working in recruitment for a homeless charity to working in first line IT to being part of an exhibition at the Tate Modern. I love problem solving, however tenuous this has been the main link between the various jobs and hobbies I have undertaken. 
+Graduating from UAL in 2017, I travelled down many different paths - from working in recruitment for a homeless charity to working in first line IT to being part of an exhibition at the Tate Modern.
+
+I love problem solving, however tenuous this has been the main link between the various jobs and hobbies I have undertaken. 
 
 In the past 3 years I have linked my creative brain with its alternative ways of thinking with analytical and systematic approaches, this has been the catalyst to me starting a new journey into programming. 
 
@@ -68,20 +65,15 @@ Tools: Google DevTools, VSCode, Adobe Photoshop/ Premiere, GitHub, MAC OSX, Wind
 ## Skills
 
 ### Problem Solving:
-    * Bug fixing 
-    * Targeted Questioning
+
     
 ### Teamwork:
-    Pairing 
+
 
 ### Creative thinking: 
 
 ### Communication: 
-    * Soft Skills !!!!!!!!! 
-    * Managing expectations 
-    * Write and verbal 
-    * Active Listening 
-    * Build trusting relations 
+
 
 ## Experience 
 
