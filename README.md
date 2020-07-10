@@ -1,10 +1,4 @@
-CV Github:
 
-TO DO: 
-- change the experience 
-- Add makers 
-- Check spelling 
-- Skills!!! 
 
 <h1 align="center">Jo Collier</h1>
 
@@ -67,10 +61,8 @@ Testing Suites: RSPEC, Capybara, Jest (& Enzyme), Jasmine, Cypress, My test suit
 Frameworks: React, Node (& Express), Sinatra, HTTP Server
 Databases: PostgresSQL, MongoDB(& Mongoose)
 CI/CD: Travis, Heroku, Netlify 
-
-| Languages| Testing Suites | Frameworks | Databases | CI/ CD | Concepts | Tools 
-|----------|----------|----------|----------|----------|----------|----------|
-
+Concepts: Remote Working, OOD,TDD, BDD, RESTful WebDesign, MVC Pattern, Agile Development, Pair Programming 
+Tools: Google DevTools, VSCode, Adobe Photoshop/ Premiere, GitHub, MAC OSX, Windows 7/8/10
 ```
 
 ## Skills
@@ -131,7 +123,6 @@ CI/CD: Travis, Heroku, Netlify
 
 ## Interests:
 * [Digital Makers Collective](http://digitalmakercollective.org/) - The Digital Maker Collective (DMC) are a voluntary, informal Research & Development (R&D) who share common goals in exploring digital & emerging technologies in the context of arts practice, education, society and the creative industries. Recently we had a exhibition at the Tate Modern, [Uni to Unicorns](https://www.tate.org.uk/whats-on/tate-modern/tate-exchange/workshop/uni-unicorns), which was a test bed for creative tech. 
-
 * Art - especially ceramics, drawing, textiles and embroidery  
 * Running and Pilates 
 * Reading - in particular surreal sci fi. 
