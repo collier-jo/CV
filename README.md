@@ -4,19 +4,6 @@
 
 <div align="center">
 
-<h2> Navigation </h2>
-    
-[Background ](#background) |
-[Projects ](#projects) | 
-[Skills ](#skills) | 
-[Experience ](#experience) | 
-[Education ](#education) | 
-[Interests ](#interests)
-
-</div>
-
-<div align="center">
-
 <h2> Contact & Links </h2>
     
 [Email ](mailto:jocollier.it@gmail.com) | 
@@ -26,6 +13,18 @@
 [Youtube ](https://www.youtube.com/feed/my_videos) |
 [CodeWars]()
 
+
+</div>
+
+<div align="center">
+
+[Background ](#background) |
+[Projects ](#projects) | 
+[TechStack ](#techstack) |
+[Skills ](#skills) | 
+[Experience ](#experience) | 
+[Education ](#education) | 
+[Interests ](#interests)
 
 </div>
 
@@ -51,14 +50,20 @@ In the past 3 years I have linked my creative brain with its alternative ways of
 For more, please see my [GitHub repo](https://github.com/collier-jo?tab=repositories) list.
 
 
-## Tech Stack:
+## TechStack:
 ```
 Languages:  Javascript (& JQuery), Ruby, HTML/CSS 
-Testing Suites: RSPEC, Capybara, Jest (& Enzyme), Jasmine, Cypress, My test suite   
+
+Testing Suites: RSPEC, Capybara, Jest (& Enzyme), Jasmine, Cypress, My test suite  
+
 Frameworks: React, Node (& Express), Sinatra, HTTP Server
+
 Databases: PostgresSQL, MongoDB(& Mongoose)
+
 CI/CD: Travis, Heroku, Netlify 
-Concepts: Remote Working, OOD,TDD, BDD, RESTful WebDesign, MVC Pattern, Agile Development, Pair Programming 
+
+Concepts: Remote Working, OOD,TDD, BDD, RESTful WebDesign, MVC Pattern, Agile Development, Pair Programming
+
 Tools: Google DevTools, VSCode, Adobe Photoshop/ Premiere, GitHub, MAC OSX, Windows 7/8/10
 ```
 
@@ -95,22 +100,60 @@ Tools: Google DevTools, VSCode, Adobe Photoshop/ Premiere, GitHub, MAC OSX, Wind
 **Makers Academy** 
 *(March 2020 - July 2020)*
 
+Makers Academy is a highly selective 16 week, full-time program (preceded by a four-week pre-course) which teaches web development. Due to the pandemic this course was **fully remote**. Each week we would do independent learning coupled with collaborative pair programming or agile teams on full stack, fully Test Driven, gitHub projects. 
+
+* Learning how to learn: Constant emersion of new technologies, frameworks and languages within a growth mindset. 
+* Problem Solving: A huge focus was debugging and the understanding that nothing is hard its just new. 
+* Independent Learning: **Fully remote** learning Ruby, Javascript, Jest, Jasmine and many more inc supporting concepts as mentioned below
+* Programming Fundamentals: Focus on OOP principles, MVC Design Pattern, Agile Development, XP Values,  Scrum methodology, Diagramming (inc sequence, domain and CRC) and GitbHub
+* Technical skills (see [TechStack ](#techstack))
+
 **CompTia Essentials** 
-*In process*
+*In progress*
+
+* Troubleshoot and problem solve core service and support challenges while applying best practices for documentation, change management, and scripting
+* Demonstrate baseline security skills for IT support professionals, support basic IT infrastructure and networking
+* Configure device operating systems, including Windows, Mac, Linux, Chrome OS, Android and iOS 
+* Configure and support PC, mobile and IoT device hardware
+* Implement basic data backup and recovery methods and apply data storage and management best practices
 
 **Project Management - Foundation Programme** 
 *UAL (8th - 9th January 2020)*
+* Explain the three dimensions of effective project management: Governance, Process, People
+* Understand the five phases of good practise project process: Define/ Plan/ Implement/ Close/ Evaluate 
+* Create a project proposal in a ground with clear understanding of scope (and how this can change)
+* Identify the key elements of control within the project process inc Stake Holder, Timelines and Budgets
+* Evaluate projects effectively
 
-**HTML/ CSS/ Javascript/ JQuery - Web Development**
+
+
+**Coding – HTML, CSS Javascript & JQuery (Short Course)**
 *(Chelsea College of Arts, UAL, 18th - 21st Dec 2018*
+
+* Using HTML to add structure and meaning to your content
+* Using CSS to add style and layout to content
+* Web design fundamentals: markup, fonts, colour, layout, interactivity, accessibility
+* The Javascript programming language and the jQuery library are introduced
+* Understanding the challenges of responsive web design and working in a fluid medium
+* Organising and planning a small web project using tools to upload your work to the internet
 
 **BA (Hons) Fine Art Sculpture** 
 *2.1 Merit Plus (UAL Camberwell College of Arts, 2014-2017)*
 
-**Art and Design Foundation** *Distinction (Northbrook College, 2013 -2014)*
+Teaches the value the importance of ‘thinking through making’, using practical experimentation and different critical approaches. Develop an understanding of the inter-relationship between humans and objects and reflect upon people’s interactions with the material world through a postcolonial lens.
+
+* My practise focused on Video Installation exploring disability, queerness and playing with concepts of the audience (who is watching who..) 
+* Dissertation 
+* Skills: Ceramics (throwing and hand sculpting), Resin, Plaster, Metal work, wood work, Adobe Suite (inc Photoshop and Premiere)  
+
+**Art and Design Foundation** *Distinction (Northbrook College, 2013 - 2014)*
+
 **Art A LEVEL** *A (BHASVIC, 2011 - 2013)*
+
 **Philosophy A LEVEL** *B (BHASVIC, 2011 - 2013)*
+
 **Classical Civilisation A LEVEL** *B (BHASVIC, 2011 - 2013)*
+
 **GCSE’s** *A-B x10 (St Paul’s Catholic College)* 
 
 ## Interests:
