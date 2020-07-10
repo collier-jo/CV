@@ -16,8 +16,6 @@
 
 </div>
 
-====
-
 <div align="center">
 
 [Background ](#background) |
@@ -32,8 +30,7 @@
 
 ## Background 
 
-
-An engaging, behaviour and test driven full stack developer, who has recently graduated from one of the UK’s leading bootcamps, [Makers Academy](https://makers.tech/). I place learning, accessibility and creativity as core drives for my Programming Practice. 
+An engaging, energetic, behaviour and test driven full stack developer, who has recently graduated from one of the UK’s leading bootcamps, [Makers Academy](https://makers.tech/). I place learning, accessibility and creativity as core drives for my Programming Practice. 
 
 Graduating from UAL in 2017, I travelled down many different paths - from working in recruitment for a homeless charity to working in first line IT to being part of an exhibition at the Tate Modern.
 
@@ -42,6 +39,7 @@ I love problem solving, however tenuous this has been the main link between the 
 In the past 3 years I have linked my creative brain with its alternative ways of thinking with analytical and systematic approaches, this has been the catalyst to me starting a new journey into programming. 
 
 ## Projects
+
 | Title | Description | Technologies Used | Live Link |
 |--|--|--|--|
 [Run Boris, Run](https://github.com/edmond-b/Covid_Game)| | Javascript, Jest, React| [Click here!](https://run-boris-run.netlify.app/)
@@ -73,9 +71,17 @@ Tools: Google DevTools, VSCode, Adobe Photoshop/ Premiere, GitHub, MAC OSX, Wind
 
 ### Problem Solving:
 
+Having done 2 years working in front line IT support, I have been able to distill complex tasks into elegant solutions with a clear plan of attack, targeted resolve 80% of Service Requests/ Incidences on first contact. 
+
+Within this role, I learnt to break down the bigger issue into smaller bite sized problems to find the most likely hypothesis for issues I was facing, systematically working through the simplest answer to the higher level problems, often finding the simplest answer is correct. I would always document my findings, outcomes and solutions making to ensure I can reuse this work when a similar problem arose. 
+
+These skills have been enhanced and honed to Coding during the 16 Week Makers Bootcamp. By following a strict debugging process (as documented in my blog [here]() ), I have found my systematic and analytical approach to yield efficient solutions. 
+
     
 ### Teamwork:
+During the Makers Bootcamp teamwork was integral, either we worked within an agile team or pair programming each afternoon. 
 
+An example of this was during the [Acebook]() Challenge, for this challenge we managed our own work load by firstly creating an MVP project, which was run past our stack holder and changed accordingly. After, we worked on rolling 2 day sprits. To ensure communication and to manage work load we held daily standups and retros, often checking in via Slack after lunch. We would split into pair according to the estimate and would do ‘mob’ programming when encountering difficult bugs. 
 
 ### Creative thinking: 
 
@@ -86,12 +92,41 @@ Tools: Google DevTools, VSCode, Adobe Photoshop/ Premiere, GitHub, MAC OSX, Wind
 
 **Junior IT Service Desk Analyst**
 *UAL, 272 High Holborn, London, WC1V 7EY (Oct 2017 –Mar 2020)*
+The first point of contact to Students, Staff and 3rd Party Suppliers for IT Services providing a consistently professional service, targeted to resolve 80% of Service Requests on first contact. 
+
+* Troubleshoot, support and maintain users, computers and printers via the Windows Software Management client Zenworks and Apple Jamf Casper Remote 
+*  Ensure that requests are logged with full qualification using targeted questioning or information gathering to ensure the most efficient fix time and best service
+* Supporting MS Active Directory Users and Computers
+* Work within ITIL structure and CompTia 
+* Clear strong communication with users via email, phone or using remote technologies 
+* Add and maintain knowledge articles 
+* Adherence to GDPR data protection policies
 
 **Support Analyst** 
 *UAL, 272 High Holborn, London, WC1V 7EY (Mar 2018 – May 2018)*
+After working in 1st line support, I was given the opportunity for a secondment within the 2nd line support team. My role was to support PC and Mac hardware/ software maintenance and fault finding on desktops, laptops and printers. Additionally, to support University wide projects such as the role out of Windows 10. 
+
+* Configure, test, deploy and troubleshoot a varied range of software applications from MS Office to more specialist software used in the creative industry such as Adobe Suite
+* Strong organisational skills inc setting self manage workload by determining priory / timescale 
+* Liaise with students and staff via phone, email and outlook calendar 
+* Liaise with other team within the university and third party suppliers/providers such as hardware and software vendors for incident management, problem management and request fulfilment tasks
+* Deploying, configuring and managing Mac OSX , Windows 7 and Windows 10
+* Networking technologies both wired and wireless including troubleshooting
+* Configuring and Troubleshooting mobile devices (mainly Apple iOS)
+* Contribute to the creation of articles and on-going maintenance of the knowledge management system
+* Staying abreast of developments in software, hardware and company changes 
+
 
 **Peer Advisor**
-*Thames Reach, 29 Peckham Rd, Camberwell, London, SE5 8UA (Sep 2017 – May 2018)*
+*Thames Reach, 29 Peckham Rd, Camberwell, London, SE5 8UA (Sep 2017 – May 2018)
+
+My role as a peer advisor was working within the employment service, providing professional and effective service to people who have experienced homelessness, supporting them to get back into work.
+
+* Help pin point client abilities and knowledge, then creating a clear pathway required for successful achievement of their goal
+* Facilitate public access and help to computers: helping clients use and develop with their IT Skills
+* Have strong written communication shown through initial assessments, writing CVs and applications
+* Liaise with external services including prospective employers and training providers as required
+* Ability to build trusting relationships with clients within challenging circumstances 
 
 **10 years customer service**
 *Various Locations*
@@ -160,9 +195,12 @@ Teaches the value the importance of ‘thinking through making’, using practic
 
 ## Interests:
 * [Digital Makers Collective](http://digitalmakercollective.org/) - The Digital Maker Collective (DMC) are a voluntary, informal Research & Development (R&D) who share common goals in exploring digital & emerging technologies in the context of arts practice, education, society and the creative industries. Recently we had a exhibition at the Tate Modern, [Uni to Unicorns](https://www.tate.org.uk/whats-on/tate-modern/tate-exchange/workshop/uni-unicorns), which was a test bed for creative tech. 
+
 * Art - especially ceramics, drawing, textiles and embroidery  
+
 * Running and Pilates 
-* Reading - in particular surreal sci fi. 
+
+* Reading - in particular surreal, dystopian sci fi such as Ursula Le Guin
 
 
 
