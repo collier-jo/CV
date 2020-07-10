@@ -76,44 +76,35 @@ CI/CD: Travis, Heroku, Netlify
 ## Skills
 
 ### Problem Solving:
-	* Bug fixing 
-	* Targeted Questioning
-	
+    * Bug fixing 
+    * Targeted Questioning
+    
 ### Teamwork:
-	Pairing 
+    Pairing 
 
 ### Creative thinking: 
 
 ### Communication: 
-	* Soft Skills !!!!!!!!! 
-	* Managing expectations 
-	* Write and verbal 
-	* Active Listening 
-	* Build trusting relations 
+    * Soft Skills !!!!!!!!! 
+    * Managing expectations 
+    * Write and verbal 
+    * Active Listening 
+    * Build trusting relations 
 
-
-	
-	
 ## Experience 
 
 **Junior IT Service Desk Analyst**
 *UAL, 272 High Holborn, London, WC1V 7EY (Oct 2017 –Mar 2020)*
 
-
-
 **Support Analyst** 
 *UAL, 272 High Holborn, London, WC1V 7EY (Mar 2018 – May 2018)*
-
-
 
 **Peer Advisor**
 *Thames Reach, 29 Peckham Rd, Camberwell, London, SE5 8UA (Sep 2017 – May 2018)*
 
-
-
-
 **10 years customer service**
-*Various Locations* 
+*Various Locations*
+
 
 ## Education: 
 
@@ -144,5 +135,6 @@ CI/CD: Travis, Heroku, Netlify
 * Art - especially ceramics, drawing, textiles and embroidery  
 * Running and Pilates 
 * Reading - in particular surreal sci fi. 
+
 
 
