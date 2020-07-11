@@ -47,10 +47,10 @@ In the past 3 years I have linked my creative brain with its alternative ways of
 
 | Title | Description | Technologies Used | Live Link |
 |--|--|--|--|
-[Run Boris, Run](https://github.com/edmond-b/Covid_Game)| | Javascript, Jest, React| [Click here!](https://run-boris-run.netlify.app/)
-[Acebook](https://github.com/edmond-b/acebook-NO-de-Problem)| | Node, Express, React, Javascript, Jest, Cypress, MongoDB(& Mongoose)|[Click here!]()
-[Chitter]()| | Ruby, Javascript, SQL, Jasmine, RSPEC, Sinatra|[Click here!]()
-[Note-able]()| | HTTP Server, Javascript, My own testing framework| [Click here!]()
+[Run Boris, Run](https://github.com/edmond-b/Covid_Game)| A 'Super Mario Bro' clone with a Covid twist written in Vanilla Javascript and fully tested. This game features a Boris character who has to stay socially distant to keep the infection rating down  | Javascript, Jest, React| [Click here!](https://run-boris-run.netlify.app/)
+[Acebook](https://github.com/edmond-b/acebook-NO-de-Problem)| A single page facebook clone with user authentication and fully CRUD post & comments, ability to like and friend people. Written in Javascript | Node, Express, React, Javascript, Jest, Cypress, MongoDB(& Mongoose)|[Click here!]()
+[Chitter]()| A single page Twitter clone in Sinatra with an API front end in JS and a backend in Ruby with SQL Database | Ruby, Javascript, SQL, Jasmine, RSPEC, Sinatra|[Click here!]()
+[Note-able]()| A Notes App fully tested using my very own testing framework! | HTTP Server, Javascript, My own testing framework| [Click here!]()
 
 For more, please see my [GitHub repo](https://github.com/collier-jo?tab=repositories) list.
 
@@ -86,7 +86,7 @@ These skills have been enhanced and honed to Coding during the 16 Week Makers Bo
 ### Teamwork:
 During the Makers Bootcamp teamwork was integral, either we worked within an agile team or pair programming each afternoon. 
 
-An example of this was during the [Acebook]() Challenge, for this challenge we managed our own work load by firstly creating an MVP project, which was run past our stack holder and changed accordingly. After, we worked on rolling 2 day sprits. To ensure communication and to manage work load we held daily standups and retros, often checking in via Slack after lunch. We would split into pair according to the estimate and would do ‘mob’ programming when encountering difficult bugs. 
+An example of this was during the [Acebook](https://github.com/edmond-b/acebook-NO-de-Problem) Challenge, for this challenge we managed our own work load by firstly creating an MVP project, which was run past our stack holder and changed accordingly. After, we worked on rolling 2 day sprits. To ensure communication and to manage work load we held daily standups and retros, often checking in via Slack after lunch. We would split into pair according to the estimate and would do ‘mob’ programming when encountering difficult bugs. 
 
 ### Creative thinking: 
 
@@ -100,21 +100,21 @@ During my time at Art School, we had to be ambitiously curious and self starting
 
 Good communication is an integral skill to aiding efficiency, creating cohesive teams, build trusting and productive relations. 
 
-Strong Verbal/ Non-Verbal / Written:
+**Strong Verbal/ Non-Verbal / Written:**
 
 A good example of these skills was during my time as in 2nd Line IT Support,  a frustrated user had 25 unusable laptops 2 weeks before lesson started. Having discussed over phone and  email I knew we couldn’t deploy windows 10 owing to their low spec. Two things I knew going into the meeting 1) we could not help 2) this users was temperamental at the best of times. With this in mind, during the meeting, my verbal skills were understanding and sensitive however I kept my body language firm such as strong eye contact and minima but open body movement/ gestures. 
 
 Through my confidence and diplomacy I was successfully able to de-escalate the users anger while also managing their expectations around a solution. 
 
 
-Translating jargon: 
+**Translating jargon:** 
 
 A key responsibly within my IT Support Role was to share complicated concepts, issues and university business direction to users in often emotionally charged settings.
 
 This ran both ways - I would also have to take vague, non specialist understanding of IT problems and requests, and translate into technical, digestible with relevant business implications 
 
 
-Active & Empathic Listening to build working relations: 
+**Active & Empathic Listening to build working relations:** 
 
 During my role as a Peer Advisor for Thames Reach Homeless Charity, I would have to actively listen to obtain key information, and hear the complete message being communicated to aid with their job hunt. Listening to understand someone was a vital skill in creating a realistic pathway and give constructive feedback. 
 
@@ -125,6 +125,7 @@ The ability to pin point the needs of a client and respond appropriately enabled
 
 **Junior IT Service Desk Analyst**
 *UAL, 272 High Holborn, London, WC1V 7EY (Oct 2017 –Mar 2020)*
+
 The first point of contact to Students, Staff and 3rd Party Suppliers for IT Services providing a consistently professional service, targeted to resolve 80% of Service Requests on first contact. 
 
 * Troubleshoot, support and maintain users, computers and printers via the Windows Software Management client Zenworks and Apple Jamf Casper Remote 
@@ -137,6 +138,7 @@ The first point of contact to Students, Staff and 3rd Party Suppliers for IT Ser
 
 **Support Analyst** 
 *UAL, 272 High Holborn, London, WC1V 7EY (Mar 2018 – May 2018)*
+
 After working in 1st line support, I was given the opportunity for a secondment within the 2nd line support team. My role was to support PC and Mac hardware/ software maintenance and fault finding on desktops, laptops and printers. Additionally, to support University wide projects such as the role out of Windows 10. 
 
 * Configure, test, deploy and troubleshoot a varied range of software applications from MS Office to more specialist software used in the creative industry such as Adobe Suite
@@ -151,7 +153,7 @@ After working in 1st line support, I was given the opportunity for a secondment 
 
 
 **Peer Advisor**
-*Thames Reach, 29 Peckham Rd, Camberwell, London, SE5 8UA (Sep 2017 – May 2018)
+*Thames Reach, 29 Peckham Rd, Camberwell, London, SE5 8UA (Sep 2017 – May 2018)*
 
 My role as a peer advisor was working within the employment service, providing professional and effective service to people who have experienced homelessness, supporting them to get back into work.
 
@@ -169,7 +171,7 @@ My role as a peer advisor was working within the employment service, providing p
 
 **Makers Academy** 
 *(March 2020 - July 2020)*
-
+ 
 Makers Academy is a highly selective 16 week, full-time program (preceded by a four-week pre-course) which teaches web development. Due to the pandemic this course was **fully remote**. Each week we would do independent learning coupled with collaborative pair programming or agile teams on full stack, fully Test Driven, gitHub projects. 
 
 * Learning how to learn: Constant emersion of new technologies, frameworks and languages within a growth mindset. 
@@ -198,7 +200,7 @@ Makers Academy is a highly selective 16 week, full-time program (preceded by a f
 
 
 **Coding – HTML, CSS Javascript & JQuery (Short Course)**
-*(Chelsea College of Arts, UAL, 18th - 21st Dec 2018*
+*(Chelsea College of Arts, UAL, 18th - 21st Dec 2018)*
 
 * Using HTML to add structure and meaning to your content
 * Using CSS to add style and layout to content
