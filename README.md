@@ -55,7 +55,7 @@ In the past 3 years I have linked my creative brain with its alternative ways of
 For more, please see my [GitHub repo](https://github.com/collier-jo?tab=repositories) list.
 
 
-## Technical:
+## Technical
 ```
 Languages:  Javascript (& JQuery), Ruby, HTML/CSS 
 
@@ -167,7 +167,7 @@ My role as a peer advisor was working within the employment service, providing p
 *Various Locations*
 
 
-## Education: 
+## Education
 
 **Makers Academy** 
 *(March 2020 - July 2020)*
@@ -228,7 +228,7 @@ Teaches the value the importance of ‘thinking through making’, using practic
 
 **GCSE’s** *A-B x10 (St Paul’s Catholic College)* 
 
-## Interests:
+## Interests
 * [Digital Makers Collective](http://digitalmakercollective.org/) - The Digital Maker Collective (DMC) are a voluntary, informal Research & Development (R&D) who share common goals in exploring digital & emerging technologies in the context of arts practice, education, society and the creative industries. Recently we had a exhibition at the Tate Modern, [Uni to Unicorns](https://www.tate.org.uk/whats-on/tate-modern/tate-exchange/workshop/uni-unicorns), which was a test bed for creative tech. 
 
 * Art - especially ceramics, drawing, textiles and embroidery  
