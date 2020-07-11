@@ -12,7 +12,7 @@
 
 
 <a href="https://github.com/collier-jo/tracking_my_progress">
-<img src="https://www.vectorstock.com/royalty-free-vector/github-logo-icon-vector-25322797" alt="github" hspace="50" height="42" width="42"></a>
+<img src="https://image.flaticon.com/icons/svg/25/25231.svg" alt="github" hspace="50" height="42" width="42"></a>
 
 <a href="https://www.youtube.com/feed/my_videos">
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/YouTube_social_white_squircle_%282017%29.svg" alt="youtube" hspace="50" height="42" width="42"></a>
