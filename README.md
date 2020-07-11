@@ -178,7 +178,7 @@ Makers Academy is a highly selective 16 week, full-time program (preceded by a f
 * Problem Solving: A huge focus was debugging and the understanding that nothing is hard its just new. 
 * Independent Learning: **Fully remote** learning Ruby, Javascript, Jest, Jasmine and many more inc supporting concepts as mentioned below
 * Programming Fundamentals: Focus on OOP principles, MVC Design Pattern, Agile Development, XP Values,  Scrum methodology, Diagramming (inc sequence, domain and CRC) and GitbHub
-* Technical skills (see [TechStack ](#techstack))
+* Technical skills (see [Tech Skills](#technical))
 
 **CompTia Essentials** 
 *In progress*
