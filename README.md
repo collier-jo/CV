@@ -2,19 +2,24 @@
 
 <h1 align="center">Jo Collier</h1>
 
-<div align="center">
-
-<h2> Contact & Links </h2>
-    
-[Email ](mailto:jocollier.it@gmail.com) | 
-[LinkedIn ](https://www.linkedin.com/in/jo-collier-1ba7b911b/) | 
-[GitHub](https://github.com/collier-jo) |
-[Blog ](https://github.com/collier-jo/tracking_my_progress) | 
-[Youtube ](https://www.youtube.com/feed/my_videos) |
-[CodeWars]()
+<p align="center">
+<a href="mailto:jocollier.it@gmail.com">
+<img src="https://image.flaticon.com/icons/svg/281/281769.svg" alt="gmail" hspace="50" height="42" width="42"></a>
 
 
-</div>
+<a href="https://www.linkedin.com/in/jo-collier-1ba7b911b/">
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+
+
+<a href="https://github.com/collier-jo/tracking_my_progress">
+<img src="https://www.vectorstock.com/royalty-free-vector/github-logo-icon-vector-25322797" alt="github" hspace="50" height="42" width="42"></a>
+
+<a href="https://www.youtube.com/feed/my_videos">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/YouTube_social_white_squircle_%282017%29.svg" alt="youtube" hspace="50" height="42" width="42"></a>
+
+
+</p>
+
 
 <div align="center">
 
@@ -73,7 +78,7 @@ Tools: Google DevTools, VSCode, Adobe Photoshop/ Premiere, GitHub, MAC OSX, Wind
 
 Having done 2 years working in front line IT support, I have been able to distill complex tasks into elegant solutions with a clear plan of attack, targeted resolve 80% of Service Requests/ Incidences on first contact. 
 
-Within this role, I learnt to break down the bigger issue into smaller bite sized problems to find the most likely hypothesis for issues I was facing, systematically working through the simplest answer to the higher level problems, often finding the simplest answer is correct. I would always document my findings, outcomes and solutions making to ensure I can reuse this work when a similar problem arose. 
+Within this role, I learnt to break down the bigger issue into smaller bite sized problems, through targeted questioning to find the most likely hypothesis for issues I was facing, systematically working through the simplest answer to the higher level problems, often finding the simplest answer is correct. I would always document my findings, outcomes and solutions making to ensure I can reuse this work when a similar problem arose. 
 
 These skills have been enhanced and honed to Coding during the 16 Week Makers Bootcamp. By following a strict debugging process (as documented in my blog [here]() ), I have found my systematic and analytical approach to yield efficient solutions. 
 
@@ -85,7 +90,35 @@ An example of this was during the [Acebook]() Challenge, for this challenge we m
 
 ### Creative thinking: 
 
+Through the Makers Academy Bootcamp, I became away of the balance of two different worlds of analytical imagination, and build something out of nothing. These concepts came easy to me having digested them 4 years earlier during my Art Degree. 
+
+During my time at Art School, we had to be ambitiously curious and self starting; we were given no brief and expected to present a fully realised piece backed with sustained lines of enquires. We had to tap into our passions, constantly testing ideas, back track and retrace concepts, collaborate and repetitive mastering of your materials/ tools. 
+
+
+
 ### Communication: 
+
+Good communication is an integral skill to aiding efficiency, creating cohesive teams, build trusting and productive relations. 
+
+Strong Verbal/ Non-Verbal / Written:
+
+A good example of these skills was during my time as in 2nd Line IT Support,  a frustrated user had 25 unusable laptops 2 weeks before lesson started. Having discussed over phone and  email I knew we couldn’t deploy windows 10 owing to their low spec. Two things I knew going into the meeting 1) we could not help 2) this users was temperamental at the best of times. With this in mind, during the meeting, my verbal skills were understanding and sensitive however I kept my body language firm such as strong eye contact and minima but open body movement/ gestures. 
+
+Through my confidence and diplomacy I was successfully able to de-escalate the users anger while also managing their expectations around a solution. 
+
+
+Translating jargon: 
+
+A key responsibly within my IT Support Role was to share complicated concepts, issues and university business direction to users in often emotionally charged settings.
+
+This ran both ways - I would also have to take vague, non specialist understanding of IT problems and requests, and translate into technical, digestible with relevant business implications 
+
+
+Active & Empathic Listening to build working relations: 
+
+During my role as a Peer Advisor for Thames Reach Homeless Charity, I would have to actively listen to obtain key information, and hear the complete message being communicated to aid with their job hunt. Listening to understand someone was a vital skill in creating a realistic pathway and give constructive feedback. 
+
+The ability to pin point the needs of a client and respond appropriately enabled the client to have clarity on steps needed to successfully get a job which in turn build trusting relations. 
 
 
 ## Experience 
