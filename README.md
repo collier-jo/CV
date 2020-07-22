@@ -49,8 +49,8 @@ In the past 3 years I have linked my creative brain with its alternative ways of
 |--|--|--|--|
 [Run Boris, Run](https://github.com/edmond-b/Covid_Game)| A 'Super Mario Bro' clone with a Covid twist written in Vanilla Javascript and fully tested. This game features a Boris character who has to stay socially distant to keep the infection rating down  | Javascript, Jest, React| [Click here!](https://run-boris-run.netlify.app/)
 [Acebook](https://github.com/edmond-b/acebook-NO-de-Problem)| A single page facebook clone with user authentication and fully CRUD post & comments, ability to like and friend people. Written in Javascript | Node, Express, React, Javascript, Jest, Cypress, MongoDB(& Mongoose)|[Click here!]()
-[Chitter]()| A single page Twitter clone in Sinatra with an API front end in JS and a backend in Ruby with SQL Database | Ruby, Javascript, SQL, Jasmine, RSPEC, Sinatra|[Click here!]()
-[Note-able]()| A single page Notes App fully tested using my very own testing framework! | HTTP Server, Javascript, My own testing framework| [Click here!]()
+[Makers B&B](https://github.com/collier-jo/makersBnB)| AirB&B clone in Sinatra with a backend in Ruby with SQL Database, fully tested with Capybara & RSpec | Ruby, RSpec, Capybara, SQL, Sinatra|[Click here!]()
+[Note-able](https://github.com/collier-jo/NOTE-able)| A single page Notes App fully tested using my very own testing framework! | HTTP Server, Javascript, My own testing framework| [Click here!]()
 
 For more, please see my [GitHub repo](https://github.com/collier-jo?tab=repositories) list.
 
