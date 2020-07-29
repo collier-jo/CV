@@ -16,7 +16,7 @@
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 
 <a href="https://www.youtube.com/feed/my_videos">
-<img src="/youtube.png" alt="youtube" hspace="45" height="45" width="45"></a>
+<img src="/youtube.png" alt="youtube" hspace="42" height="42" width="42"></a>
 
 
 </p>
