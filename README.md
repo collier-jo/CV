@@ -2,17 +2,15 @@
 
 <h1 align="center">Jo Collier</h1>
 
+<a href="http://jocollier.surge.sh/">
+<img src="/surge.png" alt="surge" hspace="50" height="42" width="42"></a>
+
 <p align="center">
 <a href="mailto:jocollier.it@gmail.com">
 <img src="https://image.flaticon.com/icons/svg/281/281769.svg" alt="gmail" hspace="50" height="42" width="42"></a>
 
-
 <a href="https://www.linkedin.com/in/jo-collier-1ba7b911b/">
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
-
-
-<a href="https://github.com/collier-jo/tracking_my_progress">
-<img src="https://image.flaticon.com/icons/svg/25/25231.svg" alt="github" hspace="50" height="42" width="42"></a>
 
 <a href="https://www.youtube.com/feed/my_videos">
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/YouTube_social_white_squircle_%282017%29.svg" alt="youtube" hspace="50" height="42" width="42"></a>
@@ -80,7 +78,7 @@ Having done 2 years working in front line IT support, I have been able to distil
 
 Within this role, I learnt to break down the bigger issue into smaller bite sized problems, through targeted questioning to find the most likely hypothesis for issues I was facing, systematically working through the simplest answer to the higher level problems, often finding the simplest answer is correct. I would always document my findings, outcomes and solutions making to ensure I can reuse this work when a similar problem arose. 
 
-These skills have been enhanced and honed to Coding during the 16 Week Makers Bootcamp. By following a strict debugging process (as documented in my blog [here](https://github.com/collier-jo/tracking_my_progress) ), I have found my systematic and analytical approach to yield efficient solutions. 
+These skills have been enhanced and honed to Coding during the 16 Week Makers Bootcamp. By following a strict debugging process (as documented in my [here](http://jocollier.surge.sh/blog) ), I have found my systematic and analytical approach to yield efficient solutions. 
 
     
 ### Teamwork:
