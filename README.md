@@ -10,12 +10,12 @@
 <img src="/surge.png" alt="surge" hspace="50"  height="38" ></a>
 
 <a href="mailto:jocollier.it@gmail.com">
-<img src="https://image.flaticon.com/icons/svg/281/281769.svg" alt="gmail" hspace="50" height="42" width="42"></a>
+<img src="https://image.flaticon.com/icons/svg/281/281769.svg" alt="gmail" hspace="50" height="39" width="39"></a>
 
 <a href="https://www.linkedin.com/in/jo-collier-1ba7b911b/">
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 
-<a href="https://www.youtube.com/feed/my_videos">
+<a href="youtube.com/channel/UC4jsOtEqIsJRZ7kXUjRSWMw">
 <img src="/youtube.png" alt="youtube" hspace="42" height="42" width="42"></a>
 
 
@@ -48,10 +48,13 @@ In the past 3 years I have linked my creative brain with its alternative ways of
 
 | Title | Description | Technologies Used | Live Link |
 |--|--|--|--|
-[Run Boris, Run](https://github.com/edmond-b/Covid_Game)| A 'Super Mario Bro' clone with a Covid twist written in Vanilla Javascript and fully tested. This game features a Boris character who has to stay socially distant to keep the infection rating down  | Javascript, Jest, React| [Click here!](https://run-boris-run.netlify.app/)
-[Acebook](https://github.com/edmond-b/acebook-NO-de-Problem)| A single page facebook clone with user authentication and fully CRUD post & comments, ability to like and friend people. Written in Javascript | Node, Express, React, Javascript, Jest, Cypress, MongoDB(& Mongoose)|[Click here!]()
-[Makers B&B](https://github.com/collier-jo/makersBnB)| AirB&B clone in Sinatra with a backend in Ruby with SQL Database, fully tested with Capybara & RSpec | Ruby, RSpec, Capybara, SQL, Sinatra|[Click here!]()
-[Note-able](https://github.com/collier-jo/NOTE-able)| A single page Notes App fully tested using my very own testing framework! | HTTP Server, Javascript, My own testing framework| [Click here!]()
+[Portfolio Website]() | Personal website showing my CV, Portfolio and Blog | React, Javascript and Surge| [Click here](http://jocollier.surge.sh/) 
+[Run Boris, Run](https://github.com/edmond-b/Covid_Game)| A 'Super Mario Bro' clone with a Covid twist written in Vanilla Javascript and fully tested. This game features a Boris character who has to stay socially distant to keep the infection rating down  | Javascript, Jest, React and Netlify| [Click here!](https://run-boris-run.netlify.app/)
+[Acebook](https://github.com/edmond-b/acebook-NO-de-Problem)| A single page facebook clone with user authentication and fully CRUD post & comments, ability to like and friend people. Written in Javascript | Node, Express, React, Javascript, Jest, Cypress and MongoDB(& Mongoose)| |
+[Makers B&B](https://github.com/collier-jo/makersBnB)| AirB&B clone in Sinatra with a backend in Ruby with SQL Database, fully tested with Capybara & RSpec | Ruby, RSpec, Capybara, SQL and Sinatra||
+[Note-able](https://github.com/collier-jo/NOTE-able)| A single page Notes App fully tested using my very own testing framework! | HTTP Server, Javascript, Heroku and My own testing framework| [Click here!]()
+
+For videos of these projects either see my [website](http://jocollier.surge.sh/) or see my [youtube channel](youtube.com/channel/UC4jsOtEqIsJRZ7kXUjRSWMw)
 
 For more, please see my [GitHub repo](https://github.com/collier-jo?tab=repositories) list.
 
@@ -242,7 +245,9 @@ Teaches the value the importance of ‘thinking through making’, using practic
 ## Interests
 * [Digital Makers Collective](http://digitalmakercollective.org/) - The Digital Maker Collective (DMC) are a voluntary, informal Research & Development (R&D) who share common goals in exploring digital & emerging technologies in the context of arts practice, education, society and the creative industries. Recently we had a exhibition at the Tate Modern, [Uni to Unicorns](https://www.tate.org.uk/whats-on/tate-modern/tate-exchange/workshop/uni-unicorns), which was a test bed for creative tech. 
 
-* Art - especially ceramics, drawing, textiles and embroidery  
+* Art - especially ceramics, drawing, textiles and embroidery
+
+* Blogging - To reflect and track my learning I got really into blogging. See my blog on my website [here](http://jocollier.surge.sh/)
 
 * Running and Pilates 
 
