@@ -2,10 +2,13 @@
 
 <h1 align="center">Jo Collier</h1>
 
-<a href="http://jocollier.surge.sh/">
-<img src="/surge.png" alt="surge" hspace="50" height="42" width="42"></a>
+
 
 <p align="center">
+    
+<a href="http://jocollier.surge.sh/">
+<img src="/surge.png" alt="surge" hspace="50"  height="38" ></a>
+
 <a href="mailto:jocollier.it@gmail.com">
 <img src="https://image.flaticon.com/icons/svg/281/281769.svg" alt="gmail" hspace="50" height="42" width="42"></a>
 
@@ -13,7 +16,7 @@
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 
 <a href="https://www.youtube.com/feed/my_videos">
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/YouTube_social_white_squircle_%282017%29.svg" alt="youtube" hspace="50" height="42" width="42"></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/YouTube_social_white_squircle_%282017%29.svg" alt="youtube" hspace="50" height="60" width="60"></a>
 
 
 </p>
