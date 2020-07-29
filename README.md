@@ -128,6 +128,9 @@ The ability to pin point the needs of a client and respond appropriately enabled
 
 The first point of contact to Students, Staff and 3rd Party Suppliers for IT Services providing a consistently professional service, targeted to resolve 80% of Service Requests on first contact. 
 
+<details close>
+    <summary>Click to see responsibilities</summary>
+
 * Troubleshoot, support and maintain users, computers and printers via the Windows Software Management client Zenworks and Apple Jamf Casper Remote 
 *  Ensure that requests are logged with full qualification using targeted questioning or information gathering to ensure the most efficient fix time and best service
 * Supporting MS Active Directory Users and Computers
@@ -135,12 +138,15 @@ The first point of contact to Students, Staff and 3rd Party Suppliers for IT Ser
 * Clear strong communication with users via email, phone or using remote technologies 
 * Add and maintain knowledge articles 
 * Adherence to GDPR data protection policies
+</details>
 
 **Support Analyst** 
 *UAL, 272 High Holborn, London, WC1V 7EY (Mar 2018 – May 2018)*
 
 After working in 1st line support, I was given the opportunity for a secondment within the 2nd line support team. My role was to support PC and Mac hardware/ software maintenance and fault finding on desktops, laptops and printers. Additionally, to support University wide projects such as the role out of Windows 10. 
 
+<details close>
+    <summary>Click to see responsibilities</summary>
 * Configure, test, deploy and troubleshoot a varied range of software applications from MS Office to more specialist software used in the creative industry such as Adobe Suite
 * Strong organisational skills inc setting self manage workload by determining priory / timescale 
 * Liaise with students and staff via phone, email and outlook calendar 
@@ -150,18 +156,22 @@ After working in 1st line support, I was given the opportunity for a secondment 
 * Configuring and Troubleshooting mobile devices (mainly Apple iOS)
 * Contribute to the creation of articles and on-going maintenance of the knowledge management system
 * Staying abreast of developments in software, hardware and company changes 
-
+</details>
 
 **Peer Advisor**
 *Thames Reach, 29 Peckham Rd, Camberwell, London, SE5 8UA (Sep 2017 – May 2018)*
 
 My role as a peer advisor was working within the employment service, providing professional and effective service to people who have experienced homelessness, supporting them to get back into work.
 
+<details close>
+    <summary>Click to see responsibilities</summary>
 * Help pin point client abilities and knowledge, then creating a clear pathway required for successful achievement of their goal
 * Facilitate public access and help to computers: helping clients use and develop with their IT Skills
 * Have strong written communication shown through initial assessments, writing CVs and applications
 * Liaise with external services including prospective employers and training providers as required
 * Ability to build trusting relationships with clients within challenging circumstances 
+    
+</details>
 
 **10 years customer service**
 *Various Locations*
